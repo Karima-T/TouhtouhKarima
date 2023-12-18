@@ -54,7 +54,6 @@ httplib2==0.20.2
 idna==3.3
 imageio==2.33.1
 imblearn==0.0
-importlib-metadata==4.6.4
 ipykernel==6.26.0
 ipython==8.17.1
 iterative-telemetry==0.0.8
