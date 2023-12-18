@@ -136,6 +136,7 @@ rich==13.6.0
 rpds-py==0.10.6
 rsa==4.9
 scikit-image==0.22.0
+scikit-learn==1.3.2
 scipy==1.11.3
 seaborn==0.13.0
 SecretStorage==3.3.1
