@@ -128,7 +128,6 @@ pyngrok==7.0.0
 pyparsing==2.4.7
 pyRFC3339==1.1
 python-dateutil==2.8.2
-python-debian==0.1.43+ubuntu1.1
 python-multipart==0.0.6
 pytz==2022.1
 pyxdg==0.27
