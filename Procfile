@@ -1,3 +1,3 @@
-web: streamlit run streamlitprojet7.py
+web: streamlit run streamlit2.py
 api: python3 API.py
 
