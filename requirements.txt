@@ -178,3 +178,4 @@ websocket-client==1.6.4
 Werkzeug==3.0.1
 xdg==5
 xgboost==2.0.1
+nltk==3.8.1
