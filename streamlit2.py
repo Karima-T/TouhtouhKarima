@@ -75,7 +75,7 @@ if st.button("Predict"):
 
 
     # Faire la prédiction en utilisant l'API Flask
-    response = requests.post("http://localhost:8080/predict", json=input_data)
+    response = requests.post("https://api-prediction1981-00dbbf4d2fd2.herokuapp.com//predict", json=input_data)
 
     if response.status_code == 200:
         prediction_result = response.json()['prediction']
