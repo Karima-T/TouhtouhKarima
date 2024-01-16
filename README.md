@@ -1,6 +1,5 @@
 Vous trouverez dans ce repository mon travail sur le projet 7 d'Openclasrooms du parcours data scientist "Implémentez un modèle de scoring"
 
-Tout d'abord :
 - deux notebooks : Projet7_1èrepartie et Projet7_2ème partie : le premier contenant tout le travail de prétraitement des données
   et le second l'entrainement de 4 modèles de classification supervisée ainsi que toute l'analyse qui suit.
 - un fichier streamlit2.py  contenant une application destinée au conseiller clientèle et permettant de prédire si oui ou non on accordera un crédit à un client.
