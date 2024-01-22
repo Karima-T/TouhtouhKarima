@@ -203,7 +203,10 @@ if st.button("Predict"):
                                 alpha=0.5, label='Crédit Refusé')
 
         # Highlight the client being tested
-        prediction_value = 0 if prediction_result == "Crédit accordé" else 1
+        if prediction_result == "Crédit accordé":
+            prediction_value = 0
+        else:   
+            prediction_value = 1
         axes[row, col_idx].scatter(client_input[col], prediction_value, marker='X', color='red', label='Client Testé')
 
         axes[row, col_idx].set_xlabel(col)
